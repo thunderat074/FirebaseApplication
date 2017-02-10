@@ -1,9 +1,9 @@
 # FirebaseApplication
 
-#Firebase User Authentication Tutorial
+*Firebase User Authentication Tutorial
 
-#Create Account
+*Create Account
 
-#Access User Information
+*Access User Information
 
-#Sign In
+*Sign In
