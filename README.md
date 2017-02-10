@@ -1,5 +1,9 @@
 # FirebaseApplication
-Initial Commit
 
+#Firebase User Authentication Tutorial
 
-Firebase User Authentication Tutorial
+#Create Account
+
+#Access User Information
+
+#Sign In
